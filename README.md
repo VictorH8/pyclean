@@ -2,7 +2,7 @@
 
 Um script Bash simples para remover arquivos e pastas desnecessárias de projetos Python. Ideal para manter seu repositório limpo!
 
-![preview](https://imgur.com/a/8ltYQfU)
+![preview](https://i.imgur.com/WbIhYW0.png)
 
 ## Recursos
 
